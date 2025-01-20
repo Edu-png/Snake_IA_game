@@ -169,34 +169,44 @@ Os resultados do projeto demonstram a eficácia do aprendizado por reforço na a
 ### 1. Vídeo Inicial: Movimentos Aleatórios 🎥
 *Este vídeo mostra o comportamento da cobra antes do treinamento significativo, onde ela colide rapidamente devido à ausência de estratégias.*
 
-[Espaço reservado para o vídeo inicial]
+https://github.com/user-attachments/assets/0b336988-2b68-4bce-be92-4973a9d110ee
 
 ---
 
 ### 2. Progresso do Treinamento
 Os gráficos e imagens a seguir ilustram o progresso do agente em diferentes estágios de treinamento:
 
+#### Script de treinamento rodando:
+<img width="572" alt="Treinamento" src="https://github.com/user-attachments/assets/06d10597-4ddd-4317-978b-f9cde83a547a" />
+
 #### Após 50 Tentativas
-[Espaço reservado para imagem da cobra após 50 tentativas]
+![50 games](https://github.com/user-attachments/assets/e4bb7af6-2cf6-4161-a938-4e9950fa3881)
+
 
 #### Após 100 Tentativas
-[Espaço reservado para imagem da cobra após 100 tentativas]
+![100 games](https://github.com/user-attachments/assets/cb16d295-6fd5-433e-aa27-1c468517e32b)
+
+#### Após 250 Tentativas
+![250](https://github.com/user-attachments/assets/24c76df9-9044-46fa-8039-5f19783f9287)
 
 #### Após 300 Tentativas
-[Espaço reservado para imagem da cobra após 300 tentativas]
+![300](https://github.com/user-attachments/assets/ca9b7605-40bc-4a3c-af59-a5bb7358c3eb)
 
-#### Após 700 Tentativas
-[Espaço reservado para imagem da cobra após 700 tentativas]
+#### Após 600 Tentativas
+![600](https://github.com/user-attachments/assets/eb6bae87-0262-4776-b511-4d02acda93cf)
 
 #### Após 1000 Tentativas
-[Espaço reservado para imagem da cobra após 1000 tentativas]
+![1000](https://github.com/user-attachments/assets/ba24821a-f063-4e7a-be08-4efc406ae552)
+
+#### Após 24 horas de treinamento (2500+)
+![after_24)h](https://github.com/user-attachments/assets/89e9acbe-3d04-4b60-bdf1-4e9db7933099)
 
 ---
 
-### 3. Vídeo Final: Agente Após 1000+ Tentativas 🎥
+### 3. Vídeo Final: Agente Após 2500+ Tentativas 🎥
 *Este vídeo mostra o agente jogando de forma otimizada, com decisões rápidas e estratégias eficazes para evitar colisões e maximizar a pontuação.*
 
-[Espaço reservado para o vídeo final]
+https://github.com/user-attachments/assets/ccc90ba5-c037-4755-b679-ef551df90898
 
 ---
 
@@ -220,7 +230,7 @@ Com essas conclusões, o projeto demonstra como conceitos teóricos de aprendiza
 
 ## Considerações Finais 🚀
 
-Este projeto demonstrou a aplicação prática do aprendizado por reforço em um ambiente simulado, como o Snake Game, explorando conceitos fundamentais de inteligência artificial e otimização. Através do desenvolvimento e treinamento do agente, foram alcançados resultados significativos, destacando a evolução progressiva do comportamento da IA ao longo de várias tentativas.
+Este projeto demonstrou a aplicação prática do aprendizado por reforço em um ambiente simulado, como o Snake Game, explorando conceitos fundamentais de inteligência artificial e otimização. Através do desenvolvimento e treinamento do agente, foram alcançados resultados significativos, destacando a evolução progressiva do comportamento da IA ao longo de várias tentativas. Para próximos desenvolvimentos o ideal seria aumentar a velocidade de movimento da cobra, assim ela aprederia mais rápido e teria resultados mais rápidos.
 
 ### Pontos de Destaque:
 1. **Evolução do Agente:** 
